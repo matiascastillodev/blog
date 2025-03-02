@@ -1,1 +1,6 @@
-media: index.html
+media: media
+content: 
+  name: posts
+    label: Posts
+    path: posts
+    type: collection
