@@ -1,6 +1,6 @@
 ---
+published: true
+date: 2025-03-02
 title: first post
 ---
-
-date: 20/01/01
 asdasd
