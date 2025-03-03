@@ -1,4 +1,4 @@
 export default async function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("src/style.css");
-  eleventyConfig.addPassthroughCopy("src/script.js");
+  eleventyConfig.addPassthroughCopy("style.css");
+  eleventyConfig.addPassthroughCopy("script.js");
 }
