@@ -4,19 +4,16 @@ content:
     label: Posts
     type: collection
     path: '_posts'
-    view:
-      fields: [ title, published, date, media ]
     fields:
-      - name: published
-        label: Published
-        type: boolean
-        default: true
-      - name: date
-        label: Date
-        type: date
       - name: title
         label: Title
         type: string
+      - name: date
+        label: Date
+        type: date
+      - name: image
+        label: Image
+        type: media
       - name: body
         label: Body
         type: rich-text
