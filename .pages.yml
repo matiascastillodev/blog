@@ -13,7 +13,7 @@ content:
         type: date
       - name: image
         label: Image
-        type: media
+        type: image
       - name: body
         label: Body
         type: rich-text
