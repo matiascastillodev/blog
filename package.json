@@ -3,10 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx @11ty/eleventy",
-    "serve": "npx @11ty/eleventy --serve",
-    "build-ghpages": "eleventy --pathprefix /blog/"
+    "serve": "npx @11ty/eleventy --serve"
   },
   "repository": {
     "type": "git",
