@@ -34,8 +34,9 @@ content:
         label: Tags
         type: select
         options:
-          values: [ Post, Featured ]
-        default: true
+         values:
+          - value: {"post", "featured"}
+            label: Featured
       - name: body
         label: Body
         type: rich-text
