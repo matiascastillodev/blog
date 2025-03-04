@@ -18,6 +18,11 @@ content:
       - name: date
         label: Date
         type: date
+      - name: tags
+        label: Tags
+        type: select
+        options: 
+          values: [featured]
       - name: image
         label: Image
         type: image
