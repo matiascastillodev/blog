@@ -37,6 +37,7 @@ content:
          values:
           - value: {"post", "featured"}
             label: Featured
+            default: none
       - name: body
         label: Body
         type: rich-text
