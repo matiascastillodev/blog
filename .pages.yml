@@ -30,6 +30,11 @@ content:
       - name: published
         label: Published
         type: boolean
+      - name: tags
+        label: Tags
+        type: select
+        options:
+        values: [ Post, Featured ]
         default: true
       - name: body
         label: Body
