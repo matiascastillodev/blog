@@ -1,7 +1,7 @@
 ---
 title: My Sixth Article
 author: Matt Castle
-postDdate: 2021-06-20
+date: 2021-06-20
 image: /assets/blog/pp.jpg
 published: true
 ---
