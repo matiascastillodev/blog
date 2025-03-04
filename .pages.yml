@@ -35,9 +35,10 @@ content:
         type: select
         options:
          values:
+          - value : none
+            label: ""
           - value: {"post", "featured"}
             label: Featured
-            default: none
       - name: body
         label: Body
         type: rich-text
