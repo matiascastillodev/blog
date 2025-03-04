@@ -34,7 +34,7 @@ content:
         label: Tags
         type: select
         options:
-          values: { value: ["post", "featured"], label: 'Featured' }
+          values: { value: '["post", "featured"]', label: 'Featured' }
       - name: body
         label: Body
         type: rich-text
