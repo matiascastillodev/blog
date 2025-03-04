@@ -15,7 +15,7 @@ content:
       - name: author
         label: Author
         type: string
-      - name: date
+      - name: postDate
         label: Date
         type: date
       - name: image
